@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class GitHub here.
+ * Demo to upload to github.
  *
  * @author (your name)
  * @version (a version number or a date)
